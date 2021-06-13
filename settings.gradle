@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseUInotes"
+include ':app'
